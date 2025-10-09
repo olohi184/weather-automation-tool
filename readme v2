@@ -1,0 +1,14 @@
+🌦️ Weather Automation Tool (V2)
+📖 Project Overview
+The Weather Automation Tool (V2) is a Python-based application that automates the process of fetching real-time weather data for any city using the OpenWeatherMap API.
+This version improves on V1 by integrating live API data, adding input handling, and displaying a clear, formatted weather report.
+⚙️ Features
+✅ Fetches real-time weather data from OpenWeatherMap
+✅ Displays temperature, humidity, weather description, and wind speed
+✅ Accepts user input for city name
+✅ Simple, clean command-line interface (CLI)
+✅ Handles invalid city names and API errors gracefully
+🧰 Technologies Used
+Python 3
+Requests Library (for API calls)
+OpenWeatherMap API
