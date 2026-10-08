@@ -1,5 +1,7 @@
 # Weather Automation Tool — Python CLI
 
+[![Python Tests](https://github.com/olohi184/weather-automation-tool/actions/workflows/python-tests.yml/badge.svg)](https://github.com/olohi184/weather-automation-tool/actions/workflows/python-tests.yml)
+
 A Python command-line application that retrieves live city weather from the OpenWeatherMap API. This repository documents a learning progression from mock weather data (V1) to a live API integration (V2) and now a structured Python application.
 
 ## Features
